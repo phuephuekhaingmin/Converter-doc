@@ -11,12 +11,18 @@
 			Supervisor
 			Dr.TIN EI KYAW
 SUBMITTED BY
+
 1. Ma Nyo Nyo Htwe
+
 2. Ma Mar Lar
+
 3. Ma Sandar Soe
+
 4. Ma May Mon Thu
-5.Ma Phue Phue Khaing Min
-6.Ma May Thu Tun
+
+5. Ma Phue Phue Khaing Min
+
+6. Ma May Thu Tun
 
 		University	of	Computer	Studies
 			(Mandalay)
