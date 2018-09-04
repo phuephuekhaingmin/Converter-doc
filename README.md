@@ -20,14 +20,19 @@ SUBMITTED BY
 
 		University	of	Computer	Studies
 			(Mandalay)
+
 			Date	4.9.2018
 
 Contents
 
-Abstract								
-Acknowledgement						
-Declaration							
-List of figures							
+Abstract
+
+Acknowledgement
+
+Declaration
+
+List of figures
+
 List of Tables 
 
 
@@ -59,7 +64,7 @@ List of Tables
 	References
 
 			
-														Abstract
+													Abstract
 
 	The project can be presented about a converter to translate some Myanmar language fonts. Myanmar Language tool’s goal is to develop a useful converter for translating texts between Myanmar languages in real time with high quality. Myanmar Language converter is a type of link that upload on website. In coding, we had used Python language to convert Zawgyi, Unicode and WinMyanmar vice visa.
 	To form our converter design, we had taken some templates such as Materialize, MDL and Bootstrap. And then, we developed the associate coding for our project.  Our converter’s coding and design were merged into a good converter link. We uploaded it on the website.
